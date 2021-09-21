@@ -18,8 +18,7 @@ import photoRoutes from './routes/photoRoutes';
 
 const whiteList = 	[
 	'https://react.danielsilva.tk',
-	'http://localhost:3000',
-	'https://pt.wikipedia.org'
+	'http://localhost:3000'
 ]
 
 const corsOptions = {
