@@ -18,7 +18,8 @@ var _photoRoutes = require('./routes/photoRoutes'); var _photoRoutes2 = _interop
 
 const whiteList = 	[
 	'https://react.danielsilva.tk',
-	'http://localhost:3000'
+	'http://localhost:3000',
+	'https://pt.wikipedia.org'
 ]
 
 const corsOptions = {
